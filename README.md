@@ -15,3 +15,11 @@ importing required moules
   from sklearn.model_selection import train_test_split
   from sklearn.preprocessing import LabelEncoder
  
+
+model = tf.keras.Sequential([
+    tf.keras.layers.Dense(128, activation='relu'),
+    tf.keras.layers.Dense(128, activation='relu'),
+    tf.keras.layers.Dense(3, activation="softmax")
+])
+
+model.compile(optimizer='adam', loss="categorical_crossentropy", metrics=['accuracy'])
