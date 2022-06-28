@@ -1,5 +1,5 @@
 # Iris prediction
-  I tried to classify Iris data set by using which I designed simple Neural Network.
+  I tried to classify Iris data set by using a model which I designed simple Neural Network.
 
 ## Model
 importing required moules
