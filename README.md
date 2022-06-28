@@ -1,6 +1,7 @@
-# iris_prediction
+# Iris prediction
+  I tried to classify Iris data set by using which I designed simple Neural Network.
 
-# Model
+## Model
 importing required moules
 
   from base64 import encode
