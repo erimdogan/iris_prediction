@@ -1,4 +1,7 @@
 # Iris prediction
+[Screencast from 29-06-2022 13:29:47.webm](https://user-images.githubusercontent.com/73399484/176415851-0cbd6788-fc6c-459c-80c6-0cd9ff4ffd8d.webm)
+
+
   I tried to classify Iris data set by using a model which I designed simple Neural Network. In this data set there 5 features; SepalLengthCm, SepalWidthCm,PetalLengthCm, PetalWidthCm and Species. SepalLengthCm, SepalWidthCm,PetalLengthCm, PetalWidthCm: are out inputs for feeding the model. Species feature is the our output. The main goal is find the right species via looking inputs. 
   
 ## Model
