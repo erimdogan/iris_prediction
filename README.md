@@ -1,5 +1,5 @@
 # Iris prediction
-  I tried to classify Iris data set by using a model which I designed simple Neural Network. In this data set there 5 features; SepalLengthCm, SepalWidthCm,PetalLengthCm, PetalWidthCm and Species. SepalLengthCm, SepalWidthCm,PetalLengthCm, PetalWidthCm: are out inputs for feeding the model. Species feature is the our output. The main goal is find right specie
+  I tried to classify Iris data set by using a model which I designed simple Neural Network. In this data set there 5 features; SepalLengthCm, SepalWidthCm,PetalLengthCm, PetalWidthCm and Species. SepalLengthCm, SepalWidthCm,PetalLengthCm, PetalWidthCm: are out inputs for feeding the model. Species feature is the our output. The main goal is find the right species via looking inputs. 
   
 ## Model
 ### Modules
