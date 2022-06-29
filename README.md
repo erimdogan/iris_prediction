@@ -1,12 +1,6 @@
 # Iris prediction
-  I tried to classify Iris data set by using a model which I designed simple Neural Network.
-  I use tensorflow module to create NN.
-  I use flask module to implement my code and module on a web
-  I used pandas module to read and use .csv file
-  I use numpy module to make changes on an arrays.
-
-
-
+  I tried to classify Iris data set by using a model which I designed simple Neural Network. In this data set there 5 features; SepalLengthCm, SepalWidthCm,PetalLengthCm, PetalWidthCm and Species. SepalLengthCm, SepalWidthCm,PetalLengthCm, PetalWidthCm: are out inputs for feeding the model. Species feature is the our output. The main goal is find right specie
+  
 ## Model
 ### Modules
 ![image](https://user-images.githubusercontent.com/73399484/176393844-45406425-3344-40d2-96c0-09646d99fa67.png)
